@@ -41,6 +41,7 @@ function gamereset(){
         box.innerText='';
         box.style.backgroundColor="#2E4052";
         para.innerText=""; 
+        turnO=true;        
     }
 }
 
